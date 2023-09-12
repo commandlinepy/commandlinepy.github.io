@@ -3,6 +3,6 @@
 
 Application 1: [C.R.U.D and Search over a json 'database' file](https://github.com/commandlinepy/crud-search-json-db)
 
-Application 2: [Time Goals](https://github.com/commandlinepy/note-time-calc-json-db)
+Application 2: [Input and calculate time goals](https://github.com/commandlinepy/note-time-calc-json-db)
 
 
